@@ -1,7 +1,5 @@
 # SOLaunch
-## deployment 
-https://solaunch-six.vercel.app/
-SOLaunch is a next-generation Web3 crowdfunding platform built on the Solana blockchain, designed to empower creators, entrepreneurs, and communities by enabling fast, secure, and transparent fundraising.
+SOLaunch is a next-generation Web3 crowdfunding platform built on the Solana blockchain, designed to empower creators, entrepreneurs, and communities by enabling fast, secure, and transparent fundraising.https://solaunch-six.vercel.app/
 
 ## Requirements
 
